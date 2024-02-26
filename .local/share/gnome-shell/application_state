@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.TextEditor.desktop" score="1.75" last-seen="1708549167"/>
+    <application id="org.gnome.Software.desktop" score="14" last-seen="1708974295"/>
+    <application id="com.brave.Browser.desktop" score="1" last-seen="1708549631"/>
+    <application id="com.raggesilver.BlackBox.desktop" score="411.9375" last-seen="1708988798"/>
+    <application id="org.gnome.clocks.desktop" score="24.5" last-seen="1708631070"/>
+    <application id="org.gnome.Terminal.Preferences.desktop" score="0" last-seen="1708603905"/>
+    <application id="org.gnome.eog.desktop" score="40" last-seen="1708810772"/>
+    <application id="org.gnome.Nautilus.desktop" score="248.25" last-seen="1708986681"/>
+    <application id="Zoom.desktop" score="144" last-seen="1708535129"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="4" last-seen="1708810787"/>
+    <application id="com.github.k4zmu2a.spacecadetpinball.desktop" score="19" last-seen="1708647280"/>
+    <application id="pinta.desktop" score="3" last-seen="1708810766"/>
+    <application id="org.freedesktop.GnomeAbrt.desktop" score="0" last-seen="1708620132"/>
+    <application id="firefox.desktop" score="23269.569809339941" last-seen="1708988748"/>
+    <application id="md.obsidian.Obsidian.desktop" score="5261.5" last-seen="1708986686"/>
+    <application id="virtualbox.desktop" score="1.5" last-seen="1708881535"/>
+    <application id="org.gnome.Terminal.desktop" score="2" last-seen="1708603907"/>
+    <application id="org.fedoraproject.MediaWriter.desktop" score="4.5" last-seen="1708645898"/>
+    <application id="com.slack.Slack.desktop" score="8755.1474609375" last-seen="1708978472"/>
+    <application id="supertux2.desktop" score="3" last-seen="1708647332"/>
+    <application id="code.desktop" score="2846.625" last-seen="1708987933"/>
+    <application id="com.spotify.Client.desktop" score="196.75" last-seen="1708988650"/>
+    <application id="com.discordapp.Discord.desktop" score="8204.1919145584106" last-seen="1708978438"/>
+  </context>
+</application-state>
